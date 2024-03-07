@@ -1,0 +1,6 @@
+# Requirements for Module Files Copy Tool
+
+# Python module dependencies
+speechrecognition==3.8.1
+
+pip install -r requirements.txt
